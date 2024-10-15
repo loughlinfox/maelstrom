@@ -12,5 +12,5 @@ Really just using it as a scripting language and copy pasting each solution to t
 I don't expect that it will read very nicely to an experienced Elixir dev.
 
 Solutions can be found in the `solutions` directory.
-Currently only covering echo & broadcast workloads.
+Currently only covering echo, broadcast, and g-set workloads.
 Will see what else time and interest allows.
